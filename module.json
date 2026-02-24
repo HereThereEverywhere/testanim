@@ -59,7 +59,7 @@
   },
   "url": "https://reyzor1991.github.io/pf2e-wiki/#/module/32",
  "manifest": "https://raw.githubusercontent.com/HereThereEverywhere/testanim/main/module.json",
-"download": "https://github.com/HereThereEverywhere/testanim/archive/refs/heads/main.zip"
+"download": "https://codeload.github.com/HereThereEverywhere/testanim/zip/refs/heads/main",
   "relationships": {
     "systems": [
       {

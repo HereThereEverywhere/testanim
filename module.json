@@ -2,7 +2,7 @@
   "id": "pf2e-animist",
   "title": "PF2e Animist",
   "description": "",
-  "version": "0.2.8",
+  "version": "0.3.0",
   "authors": [
     {
       "name": "Reyzor",
@@ -11,31 +11,13 @@
     }
   ],
   "languages": [
-    {
-      "lang": "en",
-      "name": "English",
-      "path": "lang/en.json"
-    },
-    {
-      "lang": "fr",
-      "name": "Français",
-      "path": "lang/fr.json"
-    },
-    {
-      "lang": "cn",
-      "name": "简体中文",
-      "path": "lang/cn.json"
-    },
-    {
-      "lang": "pl",
-      "name": "Polski",
-      "path": "lang/pl.json"
-    }
+    { "lang": "en", "name": "English", "path": "lang/en.json" },
+    { "lang": "fr", "name": "Français", "path": "lang/fr.json" },
+    { "lang": "cn", "name": "简体中文", "path": "lang/cn.json" },
+    { "lang": "pl", "name": "Polski", "path": "lang/pl.json" }
   ],
   "esmodules": ["scripts/main.mjs"],
-  "styles": [
-    "styles/main.css"
-  ],
+  "styles": ["styles/main.css"],
   "packFolders": [],
   "packs": [
     {
@@ -56,8 +38,8 @@
     "verified": "13.348"
   },
   "url": "https://reyzor1991.github.io/pf2e-wiki/#/module/32",
- "manifest": "https://raw.githubusercontent.com/HereThereEverywhere/pf2e-animist/main/module.json",
-"download": "https://codeload.github.com/HereThereEverywhere/pf2e-animist/zip/refs/heads/main",
+  "manifest": "https://raw.githubusercontent.com/HereThereEverywhere/pf2e-animist/main/module.json",
+  "download": "https://codeload.github.com/HereThereEverywhere/pf2e-animist/zip/refs/heads/main",
   "relationships": {
     "systems": [
       {

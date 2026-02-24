@@ -10,12 +10,7 @@
       "discord": "reyzor1991"
     }
   ],
-  "languages": [
-    { "lang": "en", "name": "English", "path": "lang/en.json" },
-    { "lang": "fr", "name": "Français", "path": "lang/fr.json" },
-    { "lang": "cn", "name": "简体中文", "path": "lang/cn.json" },
-    { "lang": "pl", "name": "Polski", "path": "lang/pl.json" }
-  ],
+  
   "esmodules": ["scripts/main.js"],
 
   "packFolders": [],
